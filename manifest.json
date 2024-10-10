@@ -1,0 +1,10 @@
+{
+  "domain": "the_keys",
+  "name": "The Keys",
+  "codeowners": ["TonyQuinio"],
+  "dependencies": [],
+  "documentation": "https://github.com/TonyQuinio/ha-the-keys",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
