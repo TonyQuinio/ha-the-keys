@@ -1,0 +1,7 @@
+{
+  "name": "The Keys",
+  "render_readme": false,
+  "homeassistant": "2022.8.0",
+  "zip_release": true,
+  "filename": "the_keys.zip"
+}
